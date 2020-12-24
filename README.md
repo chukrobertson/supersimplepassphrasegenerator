@@ -1,7 +1,7 @@
 # Super Simple Passphrase Generator
 ---
 A super simple password and passphrase generator in python. 
-It will generate a random password or passphrase of desired length
+You can generate a random password or passphrase of desired length
 And generate a passphrase of desired length from a freshly generated list of 1000 random 4 character secure "passwordlets"
 This does NOT save any passwords or passphrases. 
 
