@@ -1,9 +1,14 @@
 # Super Simple Passphrase Generator
 ---
-A super simple password and passphrase generator in python. 
-You can generate a random password or passphrase of desired length
-And generate a passphrase of desired length from a freshly generated list of 1000 random 4 character secure "passwordlets"
-This does NOT save any passwords or passphrases. 
+A super simple password and passphrase generator in python.
+
+What it does:
+ - Generate a secure random password
+ - Generate a secure random passphrase from 466,000 english words
+ - Generate a passphrase from a list of 1000 randomly generated 4 character passwords
+
+What it does NOT do:
+ - Save passwords or passphrases
 
 What's included:
  - passgen.py
@@ -11,7 +16,7 @@ What's included:
  - words.txt(466K english words - source link at bottom)
 
 ### Instructions:
-Run the python script with 'python3 passgen.py' and follow the prompts. 
+Run the python script with `python3 passgen.py` and follow the prompts. 
 
 OR
 
